@@ -2,6 +2,7 @@
 
 ![Middle East Map](/home/sagemaker-user/ishtar_ai_initiative/maps/middle_east_map.png)
 
+/home/sagemaker-user/ishtar_ai_initiative/maps/middle_east_map.png
 Our non-profit organization is committed to leveraging the potential of Artificial Intelligence and Large Language Models to tackle pressing challenges across war-torn regions in areas such as Humanitarian Aid and Relief Operations, Monitoring and Analysis of Conflict Zones, Cultural and Historical Preservation, Public Health Initiatives, Reconstruction Efforts, Peacebuilding and Reconciliation, and Education and Skill Development. By utilizing advanced technology, we aim to improve the distribution of humanitarian aid, enhance the surveillance of conflict dynamics and displacement patterns, safeguard invaluable cultural heritage, bolster public health strategies, assist in the rebuilding of critical infrastructure, support peace and reconciliation endeavors, and provide vital education and training opportunities. Our goal is to apply AI-driven approaches to make a meaningful difference, promoting sustainable progress, resilience, and harmony in regions ravaged by conflict.
 
 ### 1. **Humanitarian Aid and Relief Operations**
