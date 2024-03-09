@@ -3,12 +3,17 @@
 This document provides a summary of the war-torn statistics for the following countries:
 
 ## Afghanistan
-- **Conflict Overview**: [Brief overview of the conflict including involved parties and origins.]
-- **Displacement**: [Information on IDPs (Internally Displaced Persons) and refugees resulting from the conflict.]
-- **Casualties**: [Number of deaths, injuries, and other forms of human impact.]
-- **Infrastructure Damage**: [Details on the destruction of infrastructure including homes, schools, and healthcare facilities.]
-- **Humanitarian Aid Needs**: [Overview of the population's needs including food, medical care, and shelter.]
-- **Recovery and Reconstruction Efforts**: [Information on ongoing or planned efforts for recovery and rebuilding.]
+- **Conflict Overview**: Afghanistan's conflict history spans over four decades, beginning with the Soviet invasion in 1979, followed by civil unrest, the emergence of the Taliban in the 1990s, the US-led invasion in 2001, and the eventual return to Taliban control in 2021. The conflict has involved various factions including the Afghan government, the Taliban, US and NATO allies, and numerous insurgent groups, driven by ideological, ethnic, and geopolitical complexities.
+
+- **Displacement**: The enduring conflict has led to significant displacement, creating one of the world's largest populations of refugees and internally displaced persons (IDPs). The UNHCR reports approximately 2.6 million Afghan refugees globally, alongside millions more displaced within Afghanistan itself due to ongoing hostilities and insecurity.
+
+- **Casualties**: Afghanistan has witnessed extensive human suffering, with tens of thousands of civilians killed and countless more injured. The United Nations Assistance Mission in Afghanistan (UNAMA) has documented tens of thousands of civilian casualties since it began its systematic records in 2009, highlighting the conflict's devastating impact on the Afghan population.
+
+- **Infrastructure Damage**: The conflict has extensively damaged Afghanistan's infrastructure, impacting homes, educational institutions, healthcare facilities, and critical public services. This destruction impedes access to essential healthcare and education, further exacerbating the challenges faced by the Afghan people.
+
+- **Humanitarian Aid Needs**: Afghanistan's humanitarian crisis is acute, with widespread food insecurity, lack of clean water, and healthcare access, compounded by the need for basic shelter and essentials. The situation has deteriorated with the COVID-19 pandemic and recent political upheavals, escalating the demand for immediate international humanitarian intervention.
+
+- **Recovery and Reconstruction Efforts**: International organizations, NGOs, and government initiatives have been involved in Afghanistan's recovery and reconstruction efforts, focusing on infrastructure rebuilding, service restoration, economic recovery, and support for displaced populations' return and reintegration. Nonetheless, the efforts are hampered by ongoing political instability, security challenges, and limited financial resources, slowing the country's reconstruction and recovery progress.
 
 ## Iraq
 - **Conflict Overview**: [Brief overview of the conflict including involved parties and origins.]
