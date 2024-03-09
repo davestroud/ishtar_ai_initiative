@@ -16,7 +16,7 @@ This document provides a summary of the war-torn statistics for the following co
 
 - **Recovery and Reconstruction Efforts**: International organizations, NGOs, and government initiatives have been involved in Afghanistan's recovery and reconstruction efforts, focusing on infrastructure rebuilding, service restoration, economic recovery, and support for displaced populations' return and reintegration. Nonetheless, the efforts are hampered by ongoing political instability, security challenges, and limited financial resources, slowing the country's reconstruction and recovery progress.
 
-### Iraq
+## Iraq
 
 - **Conflict Overview**: Iraq has faced decades of conflict, starting with the Iran-Iraq War in the 1980s, the Gulf War in the early 1990s, the 2003 US-led invasion that toppled Saddam Hussein, and the subsequent insurgency, leading to the rise of the Islamic State (IS) group in 2014. These conflicts have involved a multitude of actors, including Iraqi government forces, US and coalition forces, various insurgent groups, and IS fighters, with the underlying causes ranging from sectarian tensions to geopolitical interests.
 
