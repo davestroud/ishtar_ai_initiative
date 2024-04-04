@@ -3,7 +3,7 @@
 ## 1. Project Scope Definition
 
 - **Objective**: Ishtar AI is an AI-driven system that utilizes LLMs and CV models to identify regions in need of humanitarian aid and optimize aid delivery logistics.
-- **Deliverables**: An app that processes textual data and satellite imagery to generate actionable insights for humanitarian aid distribution and logistics optimization.
+- **Deliverable**: An app that processes textual data and satellite imagery to generate actionable insights for humanitarian aid distribution and logistics optimization.
 - **Stakeholders**: Humanitarian organizations, logistics teams, local governments, and affected populations.
 
 ### 2. Data Collection and Processing
@@ -11,7 +11,7 @@
 - **Textual Data Sources**: Reports are collected from NGOs, news articles, social media posts, and other relevant digital platforms. Web scraping tools and APIs where available.
 - **Satellite Imagery Sources**: Imagery is obtained from satellite providers and relevant organizations offering open-access data (e.g., NASA, ESA).
 - **Data Processing**:
-  - Textual Data: Natural Language Processing (NLP) techniques are used to clean and preprocess the data, including tokenization, removing stop words, and lemmatization.
+  - Textual Data: Natural Language Processing (NLP) techniques are used to clean and pre-process the data, including tokenization, removing stop words, and lemmatization.
   - Satellite Imagery: Images are preprocessed by adjusting resolution, normalizing brightness and contrast, and segmenting areas of interest.
 
 ### 3. Model Development
@@ -26,19 +26,19 @@
 
 ### 4. Optimization and Routing
 
-- **Routing Algorithm**: Implement algorithms such as Dijkstra's or A* for optimal route planning, considering constraints like road blockages and infrastructure damage identified by the CV model.
-- **Resource Allocation Model**: Develop a model to optimize the distribution of resources based on needs identified by the LLM, accounting for factors like population density, urgency, and accessible routes.
+- **Routing Algorithm**: Algorithms such as Dijkstra's and A* for optimal route planning, considering constraints like road blockages and infrastructure damage identified by the CV model.
+- **Resource Allocation Model**: A model to optimize the distribution of resources based on needs identified by the LLM, accounting for factors like population density, urgency, and accessible routes has been developed.
 
 ### 5. Deployment and Monitoring
 
 - **Platform**: A user-friendly app where stakeholders can input data, receive updates, and visualize aid distribution plans and routes has been built.
 - **Continuous Learning**: A feedback loop is set up where the system can learn from new data and outcomes of aid distributions to improve future predictions and recommendations.
-- **Monitoring and Evaluation**: Implement tools for monitoring the system's performance and impact, including real-time tracking of aid delivery and post-distribution assessments.
+- **Monitoring and Evaluation**: Implementation tools for monitoring the system's performance and impact, including real-time tracking of aid delivery and post-distribution assessments have been built.
 
 ### 6. Ethical Considerations and Data Privacy
 
-- Ensure compliance with data protection laws and ethical guidelines, especially concerning sensitive information and the use of satellite imagery.
-- Implement robust data anonymization and encryption methods to protect the identities and locations of individuals in conflict zones.
+- Compliance with data protection laws and ethical guidelines are ensured, especially concerning sensitive information and the use of satellite imagery.
+- Implementation of robust data anonymization and encryption methods to protect the identities and locations of individuals in conflict zones.
 
 ### 7. Collaboration and Stakeholder Engagement
 
@@ -47,10 +47,10 @@
 
 ### Technical Stack
 
-- **AI and Machine Learning**: TensorFlow, PyTorch, Hugging Face Transformers.
+- **AI and Machine Learning**: PyTorch, Hugging Face Transformers.
 - **Data Processing and Analysis**: Python (Pandas, NumPy), Apache Spark.
 - **Web Scraping and APIs**: Beautiful Soup, Scrapy, Twint for Twitter data.
 - **GIS and Mapping**: QGIS, ArcGIS, Google Earth Engine for satellite data analysis and mapping.
 - **Development and Deployment**: Docker for containerization, AWS for hosting and storage, Gradio for application development.
 
-This project structure combines state-of-the-art AI technologies with practical strategies for implementation, ensuring the system is capable of addressing the critical needs of humanitarian aid distribution and logistics planning in conflict-affected regions.
+This project structure combines state-of-the-art AI technologies with practical strategies for implementation, ensuring the system can address the critical needs of humanitarian aid distribution and logistics planning in conflict-affected regions.
