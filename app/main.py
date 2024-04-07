@@ -10,7 +10,7 @@ def load_image(image_file):
 centered_title_subheader = """
     <div style='text-align: center'>
         <h1>ISHTAR AI</h1>
-        <h2>Utilizing LLMs to address issues and support efforts in war torn regions throughout the world</h2>
+        <h2>Utilizing LLMs to support efforts in war torn regions throughout the world</h2>
     </div>
     """
 st.markdown(centered_title_subheader, unsafe_allow_html=True)
