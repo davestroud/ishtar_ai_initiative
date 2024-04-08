@@ -92,7 +92,17 @@ Infrastructure Damage: Iraq's infrastructure has suffered extensively due to the
 Humanitarian Aid Needs: The needs in Iraq remain substantial, with ongoing requirements for food assistance, medical care, shelter, and support for returning populations. The conflict with IS exacerbated pre-existing vulnerabilities, and despite the end of major combat operations, many communities continue to face challenges in accessing basic necessities.
 
 Recovery and Reconstruction Efforts: Post-IS, Iraq has embarked on extensive recovery and reconstruction efforts, with international support from entities like the United Nations Development Programme (UNDP) and various countries. These efforts focus on rebuilding infrastructure, restoring public services, and supporting economic recovery and social cohesion. However, the scale of destruction and the complexity of Iraq's sectarian and political landscape pose significant challenges to full recovery.""""",
-    'Syria': 'Information about Syria...',
+    'Syria': """Conflict Overview: The Syrian conflict began in 2011 as part of the Arab Spring protests, escalating into a civil war that has drawn in various factions, including the Syrian government, opposition groups, Kurdish forces, and extremist groups like ISIS, as well as international actors through direct intervention or support to proxies. The conflict's origins are rooted in demands for democratic reforms and escalated due to governmental crackdowns, sectarian divisions, and geopolitical interests.
+
+Displacement: The Syrian war has caused one of the largest displacement crises in recent history. According to the United Nations High Commissioner for Refugees (UNHCR), it has generated over 5.6 million Syrian refugees and displaced about 6.7 million people within the country, totaling nearly half of Syria's pre-war population.
+
+Casualties: The toll on human life has been catastrophic, with estimates of civilian deaths varying widely due to the conflict's complexity. Reliable sources estimate hundreds of thousands of deaths, with the Syrian Observatory for Human Rights reporting over 500,000 fatalities, including civilians, government forces, and various combatant groups.
+
+Infrastructure Damage: Syria's infrastructure has been decimated, with widespread destruction to homes, healthcare facilities, schools, and utilities. Key urban centers like Aleppo, Homs, and Raqqa have seen intense battles, leaving significant portions of these cities in ruins and severely disrupting civilian life and access to essential services.
+
+Humanitarian Aid Needs: The humanitarian situation in Syria is dire, with millions requiring assistance for basic needs such as food, water, healthcare, and shelter. The conflict has severely limited access to medical services, and there is an acute need for medical supplies, treatment for injuries, and support for chronic conditions exacerbated by the war.
+
+Recovery and Reconstruction Efforts: While some areas in Syria have seen attempts at recovery and reconstruction, the ongoing conflict, economic collapse, and international sanctions have significantly hampered these efforts. Limited reconstruction has occurred in government-controlled areas, but full-scale rebuilding is contingent on a political solution and substantial international funding, which remains elusive due to the conflict's unresolved nature and geopolitical complexities.""",
     'Yemen': 'Information about Yemen...',
     'Somalia': 'Information about Somalia...',
     'Libya': 'Information about Libya...'
