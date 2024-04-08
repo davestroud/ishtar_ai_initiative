@@ -114,8 +114,28 @@ Infrastructure Damage: Yemen's infrastructure has been severely impacted, with w
 Humanitarian Aid Needs: Yemen is considered the world's worst humanitarian crisis, with approximately 80% of the population requiring humanitarian assistance and protection. Needs include food security, medical supplies and services, clean water, sanitation, and shelter. The situation is compounded by economic collapse, a blockade that limits imports, and a locust plague affecting food production.
 
 Recovery and Reconstruction Efforts: Recovery and reconstruction efforts in Yemen face significant challenges due to ongoing conflict, political instability, and a lack of funding. While there are initiatives aimed at providing immediate humanitarian aid, comprehensive reconstruction efforts require a sustained peace process and significant international support to rebuild the country's infrastructure, economy, and social fabric.""",
-    'Somalia': 'Information about Somalia...',
-    'Libya': 'Information about Libya...'
+    'Somalia': """Conflict Overview: The conflict in Somalia has its roots in the collapse of the central government in 1991, leading to decades of civil war, clan conflicts, and the rise of the Islamist militant group Al-Shabaab. The conflict involves the Federal Government of Somalia, supported by African Union Mission in Somalia (AMISOM) troops, against various insurgent groups, primarily Al-Shabaab, which aims to establish an Islamic state in Somalia. The conflict is compounded by territorial disputes, political fragmentation, and foreign intervention.
+
+Displacement: The ongoing violence, combined with natural disasters such as droughts and floods, has led to widespread displacement. According to the United Nations High Commissioner for Refugees (UNHCR), there are over 2.6 million internally displaced persons (IDPs) within Somalia and nearly a million Somali refugees in neighboring countries, making it one of the most significant displacement crises globally.
+
+Casualties: The human cost of the conflict in Somalia has been high, with thousands of civilians killed or injured. Accurate casualty figures are challenging to obtain due to the ongoing nature of the conflict and limited access to many areas. However, it's known that the violence has resulted in significant civilian, militant, and security force casualties over the years.
+
+Infrastructure Damage: Somalia's infrastructure has suffered severely from the prolonged conflict, with extensive damage to homes, schools, healthcare facilities, and basic utilities. Many areas lack access to clean water and electricity, significantly hindering development and humanitarian efforts.
+
+Humanitarian Aid Needs: The humanitarian situation in Somalia is dire, with millions requiring assistance due to the combined effects of conflict, displacement, and climatic shocks. Needs include emergency food aid, medical care, shelter, water, and sanitation services. The situation is exacerbated by periodic outbreaks of diseases such as cholera and measles, particularly in IDP camps.
+
+Recovery and Reconstruction Efforts: Efforts to recover and reconstruct Somalia face numerous challenges, including ongoing security threats, political instability, and funding shortfalls. Initiatives led by the Somali government and supported by international partners focus on rebuilding critical infrastructure, strengthening governance and the rule of law, and promoting economic recovery. However, progress is often slow and uneven across different regions of the country.""",
+    'Libya': """Conflict Overview: The Libyan conflict began with the 2011 Arab Spring that led to the overthrow of Muammar Gaddafi. The power vacuum resulted in the country splitting between rival factions: the UN-recognized Government of National Accord (GNA) based in Tripoli and the Libyan National Army (LNA) led by Khalifa Haftar in the east. The conflict has drawn in multiple international actors, with varying degrees of support for each side, complicating the peace process and leading to a protracted civil war characterized by shifting alliances and territorial control.
+
+Displacement: The ongoing conflict has led to significant displacement, with hundreds of thousands of internally displaced persons (IDPs) within Libya. According to the International Organization for Migration (IOM), there are also Libyan refugees who have fled to neighboring countries, seeking safety from the violence.
+
+Casualties: The fighting has resulted in thousands of deaths and injuries among combatants and civilians alike. Precise numbers are challenging to determine due to the ongoing nature of the conflict, but the Human Rights Watch and other organizations have documented significant casualties and human rights abuses on all sides.
+
+Infrastructure Damage: Libya’s infrastructure has sustained considerable damage, with numerous reports of destroyed homes, schools, healthcare facilities, and public utilities. The conflict has severely impacted essential services, including access to healthcare, clean water, and electricity, particularly in areas of intense fighting.
+
+Humanitarian Aid Needs: The conflict, compounded by political instability and economic decline, has left a large portion of the Libyan population in need of humanitarian aid. Critical needs include food, medical care, shelter, and access to clean water and sanitation facilities. The situation is further exacerbated by the COVID-19 pandemic, which has strained the already limited health services.
+
+Recovery and Reconstruction Efforts: Efforts towards recovery and reconstruction in Libya are hindered by the ongoing conflict and lack of a unified national government. Despite several peace talks and ceasefires, sustained recovery efforts require political stability and reconciliation. International organizations and UN agencies are involved in providing humanitarian assistance and supporting ceasefire and election processes, but comprehensive reconstruction of infrastructure and the economy awaits a lasting resolution to the conflict."""
 }
 
 for country in countries:
