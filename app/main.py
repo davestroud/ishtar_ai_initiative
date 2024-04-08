@@ -103,7 +103,17 @@ Infrastructure Damage: Syria's infrastructure has been decimated, with widesprea
 Humanitarian Aid Needs: The humanitarian situation in Syria is dire, with millions requiring assistance for basic needs such as food, water, healthcare, and shelter. The conflict has severely limited access to medical services, and there is an acute need for medical supplies, treatment for injuries, and support for chronic conditions exacerbated by the war.
 
 Recovery and Reconstruction Efforts: While some areas in Syria have seen attempts at recovery and reconstruction, the ongoing conflict, economic collapse, and international sanctions have significantly hampered these efforts. Limited reconstruction has occurred in government-controlled areas, but full-scale rebuilding is contingent on a political solution and substantial international funding, which remains elusive due to the conflict's unresolved nature and geopolitical complexities.""",
-    'Yemen': 'Information about Yemen...',
+    'Yemen': """Conflict Overview: The conflict in Yemen, often described as a proxy war, began in 2014 when the Houthi movement took control of the capital, Sanaa, and much of the northern part of the country, forcing the internationally recognized government to flee to the south, then to Saudi Arabia. A coalition led by Saudi Arabia and the United Arab Emirates intervened in 2015 to restore the government. The conflict involves various factions, including the Houthi rebels, the Yemeni government, southern separatists, and jihadist groups, with regional implications involving Saudi Arabia and Iran.
+
+Displacement: The conflict has resulted in massive displacement within Yemen, with over 4 million internally displaced persons (IDPs) according to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA). Additionally, thousands of Yemenis have sought refuge in neighboring countries.
+
+Casualties: The war has caused tens of thousands of deaths, including a significant number of civilians, due to direct conflict, airstrikes, and other military operations. The Armed Conflict Location & Event Data Project (ACLED) reports extensive casualties, and the actual numbers are likely higher due to underreporting and challenges in data collection.
+
+Infrastructure Damage: Yemen's infrastructure has been severely impacted, with widespread destruction of homes, schools, healthcare facilities, and essential public utilities. This damage exacerbates an already dire humanitarian situation, with many areas lacking access to clean water, electricity, and healthcare services.
+
+Humanitarian Aid Needs: Yemen is considered the world's worst humanitarian crisis, with approximately 80% of the population requiring humanitarian assistance and protection. Needs include food security, medical supplies and services, clean water, sanitation, and shelter. The situation is compounded by economic collapse, a blockade that limits imports, and a locust plague affecting food production.
+
+Recovery and Reconstruction Efforts: Recovery and reconstruction efforts in Yemen face significant challenges due to ongoing conflict, political instability, and a lack of funding. While there are initiatives aimed at providing immediate humanitarian aid, comprehensive reconstruction efforts require a sustained peace process and significant international support to rebuild the country's infrastructure, economy, and social fabric.""",
     'Somalia': 'Information about Somalia...',
     'Libya': 'Information about Libya...'
 }
