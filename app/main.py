@@ -17,7 +17,7 @@ st.markdown(centered_title_subheader, unsafe_allow_html=True)
 
 
 # Load and display the image
-image_path = "./ishtar_ai_initiative/app/ishtar_ai.jpeg"
+image_path = "ishtar_ai.jpeg"
 image = load_image(image_path)
 st.image(image, caption='ISHTAR AI', use_column_width=True)
 
