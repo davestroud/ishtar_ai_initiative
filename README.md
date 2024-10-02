@@ -1,7 +1,3 @@
-Here's the formatted content to add to your README in GitHub:
-
----
-
 ## Ishtar AI Initiative
 
 The **Ishtar AI Initiative** is dedicated to harnessing the potential of Artificial Intelligence and Large Language Models (LLMs) to provide actionable insights and data analysis to media and journalism entities. Our goal is to support news organizations such as CNN, Fox, MSNBC, and BBC by delivering enhanced reporting and analytical capabilities for covering conflict zones, humanitarian crises, and regional developments. 
