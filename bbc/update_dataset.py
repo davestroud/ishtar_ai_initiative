@@ -25,8 +25,20 @@ def save_dataset(data, filename):
     df.to_csv(filename, index=False)
     print(f"Dataset saved to {filename}")
 
+def increment_version(version_file="VERSION"):
+    with open(version_file, "r") as f:
+        version = f.read().strip()
+    major, minor = map(int, version.split("."))
+    new_version = f"{major}.{minor + 1}"
+    with open(version_file, "w") as f:
+        f.write(new_version)
+    return new_version
+
 if __name__ == "__main__":
     url = "https://feeds.bbci.co.uk/news/rss.xml"
     scraped_data = scrape_bbc(url)
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    save_dataset(scraped_data, f"bbc_dataset_{timestamp}.csv")
+    dataset_path = f"BBC/bbc_dataset_{timestamp}.csv"
+    save_dataset(scraped_data, dataset_path)
+    version = increment_version(version_file="BBC/VERSION")
+    print(f"Dataset version updated to {version}")
