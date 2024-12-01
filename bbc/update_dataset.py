@@ -38,7 +38,7 @@ if __name__ == "__main__":
     url = "https://feeds.bbci.co.uk/news/rss.xml"
     scraped_data = scrape_bbc(url)
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    dataset_path = f"bbc/bbc_dataset_{timestamp}.csv"
+    dataset_path = f"/Users/davidstroud/Desktop/ISHTAR_AI_INITIATIVE/BBC/bbc_dataset_{timestamp}.csv"
     save_dataset(scraped_data, dataset_path)
-    version = increment_version(version_file="bbc/VERSION")
+    version = increment_version(version_file="/Users/davidstroud/Desktop/ISHTAR_AI_INITIATIVE/BBC/VERSION")
     print(f"Dataset version updated to {version}")
