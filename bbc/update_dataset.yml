@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r /Users/davidstroudishtar_ai_initiative/bbc/requirements.txt
+          pip install -r /Users/davidstroud/ishtar_ai_initiative/bbc/requirements.txt
 
       # Step 4: Run the update script
       - name: Run update script
