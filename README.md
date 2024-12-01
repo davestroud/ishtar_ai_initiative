@@ -30,5 +30,3 @@ By leveraging AI-driven approaches, we aim to empower journalists with real-time
 
 Our mission is to make a meaningful impact by applying advanced technology to some of the world's most challenging situations. By partnering with major news organizations, the Ishtar AI Initiative aims to promote greater awareness, understanding, and action on the issues that matter most in conflict-affected regions.
 
---- 
-print("Hello World")
