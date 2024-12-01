@@ -1,0 +1,32 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+from datetime import datetime
+
+def scrape_bbc(url):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'xml')  # Ensure lxml is installed
+    articles = []
+    for item in soup.find_all('item'):
+        title = item.find('title').text if item.find('title') else 'No title available'
+        link = item.find('link').text if item.find('link') else 'No link available'
+        pub_date = item.find('pubDate').text if item.find('pubDate') else 'No publication date available'
+        description = item.find('description').text if item.find('description') else 'No description available'
+        articles.append({
+            'title': title,
+            'link': link,
+            'pub_date': pub_date,
+            'description': description
+        })
+    return articles
+
+def save_dataset(data, filename):
+    df = pd.DataFrame(data)
+    df.to_csv(filename, index=False)
+    print(f"Dataset saved to {filename}")
+
+if __name__ == "__main__":
+    url = "https://feeds.bbci.co.uk/news/rss.xml"
+    scraped_data = scrape_bbc(url)
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    save_dataset(scraped_data, f"bbc_dataset_{timestamp}.csv")
